@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ABND_Project1</string>
+    <string name="businessname">Shaun\'s\nKnitting &amp;\nYarn\nShop</string>
+    <string name="motto">Everything Knitting</string>
+    <string name="products">Yarns in Cashmere, Merino, Alpaca, Angora, Mohair plus Blends\nNeedles, Patterns, Accessories\nClasses, Workshops</string>
+    <string name="addresscontact">321 Main St\nAndroid NY, 54321\nMon-Fri  9am-4pm\n(888) 765-4321\nShaunsKnitting.com\nshauns@gmail.com</string>
+    <string name="imageneedlesyarn">needlesyarn</string>
+    <string name="imageskeins">skeins</string>
+    <string name="imageshaun">shaun</string>
+
+</resources>

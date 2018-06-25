@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="android:windowBackground">@color/primaryColor</item>
+        <item name="android:navigationBarColor">@color/primaryDarkColor</item>
+    </style>
+
+    <style name="text" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="textPrimary" parent="text">
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <style name="textSecondary" parent="text">
+        <item name="android:textColor">@color/secondaryTextColor</item>
+    </style>
+
+
+</resources>
